@@ -174,7 +174,7 @@ document.addEventListener("DOMContentLoaded", event => {
 });
 // Splash texts
 const SplashT = [
-  "poodleschool.net is a fun website!",
+  "This is interstellar, but modified to be incredibly fast! Made by the Poodleschool team.",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
