@@ -174,7 +174,7 @@ document.addEventListener("DOMContentLoaded", event => {
 });
 // Splash texts
 const SplashT = [
-  "This is interstellar, but modified to be incredibly fast! Made by the Poodleschool team.",
+  "Pooxie services includes GoGuardian blockers, video games, and movies! Made by the Poodleschool team.",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
